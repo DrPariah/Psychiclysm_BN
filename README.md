@@ -1,5 +1,5 @@
 # Psychiclism_BN
-Out of Kenan's delightful modpack for BN, there is an old mod called Psychiclsm. Nifty concept - it adds mental powers to monsters (fear, stress, and psychic feedback damage), and adds the potential for the player to obtain same. Few issues with it, though:
+Out of Kenan's delightful modpack for BN, there is an old mod called Psychiclysm. Nifty concept - it adds mental powers to monsters (fear, stress, and psychic feedback damage), and adds the potential for the player to obtain same. Few issues with it, though:
 
 - Psychic feedback damage is already pretty nasty, but Nether creatures (specifically Hunting Horrors) are the primary users of it. Hunting Horrors are already hard to shoot/hit, so they can hit-n-run and automatically tag you for pain and damage with minimal defense. You need psychic defenses of your own...
 - Which brings me to the other point. Psychic powers were gated behind certain mutation trees, Alpha and Cephalopod being the ones I recall off the top of my head. So you had to engage in Mutation Roulette and hope that you got something that would allow you to shield yourself from the auto-damage dealing Nether horrors.
@@ -11,7 +11,7 @@ So what did yours truly do to this mod?
 - Psychic abilities are available as starting traits, and not just to the Awakened profession either.
 - Two whole spells weren't available in this mod despite being referenced (effects that reduce pain and fatigue), basically making it a 'soft' dependence on Magiclysm. No more. Psychiclsm specific versions of the spells are bundled in here.
 
-This thing still isn't feature complete, mind you. The psychic powers just kinda...stop after you can make Psychic Coke, er, 'crystals'. Haven't implemented anything to do with them yet, and to be honest I'm not sure I'll be able to. That being said, the rest of the mod works just fine.
+This thing still isn't feature complete, mind you. The psychic powers just kinda...stop after you can make Psychic Coke, er, 'crystals'. Haven't implemented anything to do with them yet, and to be honest I'm not sure I'll be able to. Psychic Duels do not appear to have been implemented, and I'm not sure how to do so. That being said, the rest of the mod works just fine.
 
 WISHLIST/TO-DO:
 -change recipes from autolearn to being obtainable from pulp novels and comics

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "SPELL",
+    "id": "psychic_awakening",
+    "name": { "str": "Awakening" },
+    "effect": "mutate",
+    "effect_str": "AWAKENED",
+    "description": "This grants a specific psychic mutation.",
+    "message": "You absorb the lessons so far...",
+    "min_damage": 10000,
+    "max_damage": 10000,
+    "flags": [ "SILENT", "MUTATE_TRAIT" ],
+    "valid_targets": [ "self" ],
+    "extra_effects": [ { "id": "psyjournal_awakening_leftover", "hit_self": false } ]
+  },
+  {
+    "type": "SPELL",
+    "id": "psychic_defense_training",
+    "name": { "str": "Psychic Defense Techniques" },
+    "effect": "mutate",
+    "effect_str": "PSYCHIC_DEFENSE",
+    "description": "This grants a specific psychic mutation.",
+    "message": "You absorb the lessons so far...",
+    "min_damage": 10000,
+    "max_damage": 10000,
+    "flags": [ "SILENT", "MUTATE_TRAIT" ],
+    "valid_targets": [ "self" ],
+    "extra_effects": [ { "id": "psyjournal_defense_leftover", "hit_self": false } ]
+  },
+  {
+    "type": "SPELL",
+    "id": "psychic_biofeedback",
+    "name": { "str": "Psychic Biofeedback" },
+    "effect": "mutate",
+    "effect_str": "PSYCHIC_STRENGTH",
+    "description": "This grants a specific psychic mutation.",
+    "message": "You absorb the lessons so far...",
+    "min_damage": 10000,
+    "max_damage": 10000,
+    "flags": [ "SILENT", "MUTATE_TRAIT" ],
+    "valid_targets": [ "self" ],
+    "extra_effects": [ { "id": "psyjournal_strength_leftover", "hit_self": false } ]
+  },
+  {
+    "type": "SPELL",
+    "id": "psychic_mindclouding",
+    "name": { "str": "Psychic Mesmerism" },
+    "effect": "mutate",
+    "effect_str": "MESMER",
+    "description": "This grants a specific psychic mutation.",
+    "message": "You absorb the lessons so far...",
+    "min_damage": 10000,
+    "max_damage": 10000,
+    "flags": [ "SILENT", "MUTATE_TRAIT" ],
+    "valid_targets": [ "self" ],
+    "extra_effects": [ { "id": "psyjournal_mesmerism_leftover", "hit_self": false } ]
+  },
+  {
+    "type": "SPELL",
+    "id": "psychic_crystal_twitting",
+    "name": { "str": "Psychic Projection" },
+    "effect": "mutate",
+    "effect_str": "PSYCHIC_PROJECT",
+    "description": "This grants a specific spell mutation.",
+    "message": "You absorb the lessons so far...",
+    "min_damage": 10000,
+    "max_damage": 10000,
+    "flags": [ "SILENT", "MUTATE_TRAIT" ],
+    "valid_targets": [ "self" ],
+    "extra_effects": [ { "id": "psyjournal_projection_leftover", "hit_self": false } ]
+  }
+]

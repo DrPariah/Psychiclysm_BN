@@ -1,0 +1,85 @@
+[
+ {
+	"type": "recipe",
+	"result": "psyjournal_awakening",
+	"category": "CC_OTHER",
+	"skill_used": "speech",
+	"difficulty": 0,
+	"time": "2 h",
+	"autolearn": true,
+	"tools": 
+	[ [ [ "survival_marker", 50 ], [ "permanent_marker", 50 ] ] ],
+	"components": [
+		[ ["paper", 50]	],
+		[ ["meth", 5], ["weed", 5], ["poppy_sleep", 2], ["poppy_pain", 2], ["datura_seed", 5] ]
+	]
+ },
+ {
+	"type": "recipe",
+	"result": "psyjournal_defense",
+	"category": "CC_OTHER",
+	"skill_used": "speech",
+	"difficulty": 1,
+	"time": "3 h",
+	"autolearn": true,
+	"tools": [
+	[ [ "survival_marker", 50 ], [ "permanent_marker", 50 ] ],
+	[ [ "psyjournal_awakening", -1 ], [ "psyjournal_awakening_studied", -1 ] ]
+	],
+	"components": [
+		[ ["paper", 50]	],
+		[ ["meth", 5], ["weed", 5], ["poppy_sleep", 2], ["poppy_pain", 2], ["datura_seed", 5] ]
+	]
+ },
+ {
+	"type": "recipe",
+	"result": "psyjournal_strength",
+	"category": "CC_OTHER",
+	"skill_used": "speech",
+	"difficulty": 2,
+	"time": "4 h",
+	"autolearn": true,
+	"tools": [
+	[ [ "survival_marker", 50 ], [ "permanent_marker", 50 ] ],
+	[ [ "psyjournal_defense", -1 ], [ "psyjournal_defense_studied", -1 ] ]
+	],
+	"components": [
+		[ ["paper", 50]	],
+		[ ["meth", 8], ["weed", 8], ["poppy_sleep", 3], ["poppy_pain", 3], ["datura_seed", 8] ]
+	]
+ },
+ {
+	"type": "recipe",
+	"result": "psyjournal_mesmerist",
+	"category": "CC_OTHER",
+	"skill_used": "speech",
+	"difficulty": 3,
+	"time": "5 h",
+	"autolearn": true,
+	"tools": [
+	[ [ "survival_marker", 50 ], [ "permanent_marker", 50 ] ],
+	[ [ "psyjournal_strength", -1 ], [ "psyjournal_strength_studied", -1 ] ]
+	],
+	"components": [
+		[ ["paper", 50]	],
+		[ ["meth", 10], ["weed", 10], ["poppy_sleep", 4], ["poppy_pain", 4], ["datura_seed", 10] ]
+	]
+ },
+ {
+	"type": "recipe",
+	"result": "psyjournal_projection",
+	"category": "CC_OTHER",
+	"skill_used": "speech",
+	"difficulty": 4,
+	"time": "5 h",
+	"autolearn": true,
+	"tools": [
+	[ [ "survival_marker", 50 ], [ "permanent_marker", 50 ] ],
+	[ [ "psyjournal_mesmerist", -1 ], [ "psyjournal_mesmerist_studied", -1 ] ]
+	],
+	"components": [
+		[ ["paper", 50]	],
+		[ ["meth", 12], ["weed", 12], ["poppy_sleep", 5], ["poppy_pain", 5], ["datura_seed", 12] ]
+	]
+ }
+]

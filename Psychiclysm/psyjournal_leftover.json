@@ -1,0 +1,67 @@
+[
+   {
+    "id": "psyjournal_awakening_leftover",
+    "type": "SPELL",
+    "name": { "str": "Studied Psyjournal Of Awakening" },
+    "description": "This keeps your journal around as a handy reference item for crafting.",
+    "valid_targets": [ "self" ],
+    "message": "",
+    "flags": [ "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
+    "effect": "spawn_item",
+    "effect_str": "psyjournal_awakening_studied",
+    "min_duration": 1,
+    "max_duration": 1
+   },
+    {
+    "id": "psyjournal_defense_leftover",
+    "type": "SPELL",
+    "name": { "str": "Studied Psyjournal Of Defense" },
+    "description": "This keeps your journal around as a handy reference item for crafting.",
+    "valid_targets": [ "self" ],
+    "message": "",
+    "flags": [ "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
+    "effect": "spawn_item",
+    "effect_str": "psyjournal_defense_studied",
+    "min_duration": 1,
+    "max_duration": 1
+   },
+   {
+    "id": "psyjournal_strength_leftover",
+    "type": "SPELL",
+    "name": { "str": "Studied Psyjournal Of Biofeedback" },
+    "description": "This keeps your journal around as a handy reference item for crafting.",
+    "valid_targets": [ "self" ],
+    "message": "",
+    "flags": [ "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
+    "effect": "spawn_item",
+    "effect_str": "psyjournal_strength_studied",
+    "min_duration": 1,
+    "max_duration": 1
+   },
+   {
+    "id": "psyjournal_mesmerism_leftover",
+    "type": "SPELL",
+    "name": { "str": "Studied Psyjournal Of Mesmerism" },
+    "description": "This keeps your journal around as a handy reference item for crafting.",
+    "valid_targets": [ "self" ],
+    "message": "",
+    "flags": [ "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
+    "effect": "spawn_item",
+    "effect_str": "psyjournal_mesmerist_studied",
+    "min_duration": 1,
+    "max_duration": 1
+   },
+   {
+    "id": "psyjournal_projection_leftover",
+    "type": "SPELL",
+    "name": { "str": "Studied Psyjournal Of Projection" },
+    "description": "This keeps your journal around as a handy reference item for crafting.",
+    "valid_targets": [ "self" ],
+    "message": "",
+    "flags": [ "SILENT", "PERMANENT", "NO_HANDS", "NO_LEGS" ],
+    "effect": "spawn_item",
+    "effect_str": "psyjournal_projection_studied",
+    "min_duration": 1,
+    "max_duration": 1
+   }
+ ]

@@ -1,8 +1,8 @@
 [
   {
     "type": "MOD_INFO",
-    "id": "psychiclysm",
-    "name": "Psychiclysm",
+    "id": "psychiclysm_bn",
+    "name": "Psychiclysm BN",
     "authors": [ "Sunshine", "DrPariah" ],
     "description": "Adapts some Magiclysm features for psychic phenomena.  Changes nether monsters fear attacks to an incremental effect.  Gives many monsters psi-attacks.  Adds mesmerism options to NPC dialog.  Psychic Duels with other mentalists.",
     "category": "content",
